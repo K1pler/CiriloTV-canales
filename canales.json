@@ -1,0 +1,73 @@
+{
+  "deportes": [
+    {
+      "nombre": "F1",
+      "opciones": [
+        { "nombre": "Opción 1", "url": "https://dlhd.pk/player/stream-537.php" },
+        { "nombre": "Opción 2", "url": "https://dlhd.pk/stream/stream-537.php" },
+        { "nombre": "Opción 3", "url": "https://dlhd.pk/watch/stream-537.php" },
+        { "nombre": "Opción 4 ingles", "url": "https://dlhd.pk/stream/stream-60.php" }
+      ]
+    },
+    {
+      "nombre": "DAZN",
+      "opciones": [
+        { "nombre": "Opción 1", "url": "https://dlhd.pk/player/stream-445.php" },
+        { "nombre": "Opción 2", "url": "https://dlhd.pk/stream/stream-445.php" },
+        { "nombre": "Opción 3", "url": "https://dlhd.pk/watch/stream-445.php" }
+      ]
+    },
+    {
+      "nombre": "Moto GP",
+      "opciones": [
+        { "nombre": "Opcion1 español", "url": "https://dlhd.pk/stream/stream-920.php" },
+        { "nombre": "Opción 2", "url": "https://dlhd.pk/watch/stream-575.php" }
+      ]
+    },
+    {
+      "nombre": "Futbol",
+      "opciones": [
+        {
+          "nombre": "DAZN copa del mundo fútbol.",
+          "sub_opciones": [
+            { "nombre": "Opción 1", "url": "https://dlhd.pk/stream/stream-918.php" },
+            { "nombre": "Opción 2", "url": "https://dlhd.pk/stream/stream-533.php" }
+          ]
+        }
+      ]
+    }
+  ],
+  "tv_normal": [
+    {
+      "nombre": "La 1",
+      "opciones": [
+        { "nombre": "Opción 1", "url": "https://dlhd.pk/stream/stream-533.php" },
+        { "nombre": "Opción 2", "url": "https://dlhd.pk/watch/stream-533.php" }
+      ]
+    },
+    {
+      "nombre": "Antena 3",
+      "opciones": [
+        { "nombre": "Opción 1", "url": "https://dlhd.pk/watch.php?id=531" },
+        { "nombre": "Opción 2", "url": "https://dlhd.pk/watch.php?id=531" }
+      ]
+    },
+    {
+      "nombre": "Telecinco",
+      "opciones": [
+        { "nombre": "Opción 1", "url": "https://dlhd.pk/stream/stream-532.php" },
+        { "nombre": "Opción 2", "url": "https://dlhd.pk/watch/stream-532.php" }
+      ]
+    },
+    {
+      "nombre": "Disney Chanel",
+      "opciones": [
+        { "nombre": "Opción 1", "url": "https://dlhd.pk/watch/stream-312.php" },
+        { "nombre": "Opción 2", "url": "https://dlhd.pk/stream/stream-312.php" }
+      ]
+    }
+  ],
+  "wallpaper": [
+    { "nombre": "0610", "url": "local://wallpaper_0610.mp4" }
+  ]
+}
