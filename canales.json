@@ -1,22 +1,72 @@
 {
   "deportes": [
     {
+      "nombre": "F1",
+      "opciones": [
+        { "nombre": "OpciÃ³n 1", "url": "https://dlhd.pk/player/stream-537.php" },
+        { "nombre": "OpciÃ³n 2", "url": "https://dlhd.pk/stream/stream-537.php" },
+        { "nombre": "OpciÃ³n 3", "url": "https://dlhd.pk/watch/stream-537.php" },
+        { "nombre": "OpciÃ³n 4 ingles", "url": "https://dlhd.pk/stream/stream-60.php" }
+      ]
+    },
+    {
+      "nombre": "DAZN",
+      "opciones": [
+        { "nombre": "OpciÃ³n 1", "url": "https://dlhd.pk/player/stream-445.php" },
+        { "nombre": "OpciÃ³n 2", "url": "https://dlhd.pk/stream/stream-445.php" },
+        { "nombre": "OpciÃ³n 3", "url": "https://dlhd.pk/watch/stream-445.php" }
+      ]
+    },
+    {
       "nombre": "Moto GP",
       "opciones": [
+        { "nombre": "Opcion1 espaÃ±ol", "url": "https://dlhd.pk/stream/stream-920.php" },
+        { "nombre": "OpciÃ³n 2", "url": "https://dlhd.pk/watch/stream-575.php" }
+      ]
+    },
+    {
+      "nombre": "Futbol",
+      "opciones": [
         {
-          "nombre": "Fuentes",
+          "nombre": "DAZN copa del mundo fÃºtbol.",
           "sub_opciones": [
-            { "nombre": "Opcion 1 español", "url": "https://dlhd.pk/stream/stream-920.php" },
-            { "nombre": "Opcion 2 Español", "url": "https://dlive.sx/stream/stream-918.php" },
-            { "nombre": "Opcion 3 Español", "url": "https://dlive.sx/watch.php?id=3030.php" },
-            { "nombre": "Opcion 4 Italiano", "url": "https://dlive.sx/stream/stream-575.php" },
-            { "nombre": "Opcion 5 Inglés", "url": "https://dlive.sx/stream/stream-32.php" }
+            { "nombre": "OpciÃ³n 1", "url": "https://dlhd.pk/stream/stream-918.php" },
+            { "nombre": "OpciÃ³n 2", "url": "https://dlhd.pk/stream/stream-533.php" }
           ]
         }
       ]
     }
   ],
-  "tv_normal": [],
+  "tv_normal": [
+    {
+      "nombre": "La 1",
+      "opciones": [
+        { "nombre": "OpciÃ³n 1", "url": "https://dlhd.pk/stream/stream-533.php" },
+        { "nombre": "OpciÃ³n 2", "url": "https://dlhd.pk/watch/stream-533.php" }
+      ]
+    },
+    {
+      "nombre": "Antena 3",
+      "opciones": [
+        { "nombre": "OpciÃ³n 1", "url": "https://dlhd.pk/watch.php?id=531" },
+        { "nombre": "OpciÃ³n 2", "url": "https://dlhd.pk/watch.php?id=531" }
+      ]
+    },
+    {
+      "nombre": "Telecinco",
+      "opciones": [
+        { "nombre": "OpciÃ³n 1", "url": "https://dlhd.pk/stream/stream-532.php" },
+        { "nombre": "OpciÃ³n 2", "url": "https://dlhd.pk/watch/stream-532.php" }
+      ]
+    },
+    {
+      "nombre": "Disney Chanel",
+      "opciones": [
+        { "nombre": "OpciÃ³n 1", "url": "https://dlhd.pk/watch/stream-312.php" },
+        { "nombre": "OpciÃ³n 2", "url": "https://dlhd.pk/stream/stream-312.php" }
+      ]
+    }
+  ],
   "wallpaper": [
     { "nombre": "0610", "url": "local://wallpaper_0610.mp4" }
   ]
