@@ -3,9 +3,9 @@
     {
       "nombre": "Moto GP",
       "opciones": [
-        { "nombre": "Opcion 1 español", "url": "https://dlhd.pk/stream/stream-920.php" },
+        { "nombre": "Opcion 1 español", "url": "https://dlive.sx/stream/stream-920.php" },
         { "nombre": "Opcion 2 Español", "url": "https://dlive.sx/stream/stream-918.php" },
-        { "nombre": "Opcion 3 Español", "url": "https://dlive.sx/watch.php?id=3030.php" },
+        { "nombre": "Opcion 3 Español", "url": "https://dlive.sx/stream/stream-3030.php" },
         { "nombre": "Opcion 4 Italiano", "url": "https://dlive.sx/stream/stream-575.php" },
         { "nombre": "Opcion 5 Inglés", "url": "https://dlive.sx/stream/stream-32.php" }
       ]
