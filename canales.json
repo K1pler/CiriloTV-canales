@@ -68,6 +68,15 @@
           ]
         }
       ]
+    },
+    {
+      "nombre": "TEST REMOTO",
+      "opciones": [
+        {
+          "nombre": "Opcion 1",
+          "url": "https://dlhd.pk/stream/stream-533.php"
+        }
+      ]
     }
   ],
   "tv_normal": [
