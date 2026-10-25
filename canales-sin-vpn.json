@@ -59,6 +59,10 @@
       "nombre": "Futbol",
       "opciones": [
         {
+          "nombre": "DAZN LaLiga",
+          "url": "https://thedaddy.pk/player/stream-538.php"
+        },
+        {
           "nombre": "Opción 1",
           "url": "https://dlhd.pk/stream/stream-918.php"
         },
