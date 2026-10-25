@@ -59,17 +59,41 @@
       "nombre": "Futbol",
       "opciones": [
         {
-          "nombre": "DAZN copa del mundo fútbol.",
-          "sub_opciones": [
-            {
-              "nombre": "Opción 1",
-              "url": "https://dlhd.pk/stream/stream-918.php"
-            },
-            {
-              "nombre": "Opción 2",
-              "url": "https://dlhd.pk/stream/stream-533.php"
-            }
-          ]
+          "nombre": "Opción 1",
+          "url": "https://dlhd.pk/stream/stream-918.php"
+        },
+        {
+          "nombre": "Opción 2",
+          "url": "https://dlhd.pk/stream/stream-533.php"
+        },
+        {
+          "nombre": "Canal theDaddy 1",
+          "url": "https://thedaddy.pk/stream/stream-400.php"
+        },
+        {
+          "nombre": "Canal theDaddy 2",
+          "url": "https://thedaddy.pk/stream/stream-375.php"
+        },
+        {
+          "nombre": "Canal theDaddy 3",
+          "url": "https://thedaddy.pk/stream/stream-426.php"
+        },
+        {
+          "nombre": "Canal theDaddy 4",
+          "url": "https://thedaddy.pk/stream/stream-538.php"
+        }
+      ]
+    },
+    {
+      "nombre": "Boxeo / UFC",
+      "opciones": [
+        {
+          "nombre": "Boxeo Directo",
+          "url": "https://thedaddy.pk/watch.php?id=395"
+        },
+        {
+          "nombre": "UFC Directo",
+          "url": "https://thedaddy.pk/watch.php?id=395"
         }
       ]
     }
